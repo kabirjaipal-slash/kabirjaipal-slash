@@ -42,4 +42,16 @@ I'm a passionate full-stack developer with a focus on ReactJS, Next.js, Tailwind
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kabirjaipal447@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kabirjaipal)
 
+#
+
+<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirjaipal-slash&theme=github-dark-dimmed&hide_border=true"/>
+
+#
+
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=kabirjaipal-slash&theme=github_dark_dimmed&custom_title=GitHub+Stats&hide_border=true"/>
+
+#
+
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirjaipal-slash&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact"/>
+
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!
